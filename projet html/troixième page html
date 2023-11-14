@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8"  />
+    <title> My third page Web html and css</title>
+    <link rel="stylesheet" href="../projet css/style3.css" />
+</head>
+<body>
+<header>
+<h1 class="titre">My ideas about my professional project.</h1>
+<img src="../images de projet/Maphoto.png"/>
+<h2 class="name"> Coumba Bidanessy </h2>
+</header>
+<nav>
+    <ol>
+    <li><a href="Test première html index.html"> My personnality</a></li>
+    <li><a href="deuxième page html"> My centers of interest</a></li>
+    <li><a href="troixième page html">My ideas about my professional project</a></li>
+    </ol>
+</nav>
+
+Votre vision professionnelle, ce que vous espérez réaliser au cours des 3 à 5 prochaines années 
+(études complémentaires/poursuite d’étude); étudier un sujet spécifique, obtenir un emploi particulier [
+Nommez le poste] dans un certain domaine, pourquoi ce travail spécifique? , ce qui vous attire dans ce poste… etc.
+</body>
+</html>

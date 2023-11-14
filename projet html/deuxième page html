@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8"  />
+    <title> My second page Web html and css</title>
+    <link rel="stylesheet" href="../projet css/style2.css" >
+</head>
+<body>
+<header>
+    <h1>My centers of interest</h1> 
+    <img src="../images de projet/Maphoto.png"/>
+     <h2> Coumba Bidanessy </h2>
+</header>
+<nav>
+    <ol>
+    <li><a href="Test première html index.html"> My personnality</a></li>
+    <li><a href="deuxième page html"> My centers of interest</a></li>
+    <li><a href="troixième page html">My ideas about my professional project</a></li>
+    </ol>
+</nav>
+<section>
+    <aside>
+Outside the university I have many passions. In sports, I like basketball. It's a sport I played in my youth. What I'm intersted in is team play, for example.  I find that group work makes it possible to raprocher each other.
+<img src="../images de projet/photo-basketball .jpg">
+<p>In addition, I had the opportunity in life to travel a lot. It helped me to have an open mind by discovering other environments. These trips also helped me develop my language skills. In English, Portuguese and Arabic.</p>
+<img src="../images de projet/My trip to Portugal.jpg" alt="My trip to Portugal, I like this image."/>
+<img src="../images de projet/My trip to Saudia Arabia .jpg"/>
+<img src="../images de projet/My trip to Monaco.jpg"/>
+<p>Finally, I like to do some outdoor activities. For example tree climbing is an activity that I like to do with my family</p>
+<img src="../images de projet/Photo of a climbing course.jpg" alt="I find this activities really funny"/>
+    </aside>
+</section>
+</body>
+</html>
+
+
